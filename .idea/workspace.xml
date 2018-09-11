@@ -1,0 +1,1517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22837d96-aada-4381-959f-bdb125759a43" name="Default" comment="Added src directory">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b7/90426d248b2600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/bd/2033d39b402700181a8da474ab28a18c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/bd/708f6cf73f2700181a8da474ab28a18c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/bf/c019c2368b2600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c/a0863a59432700181a8da474ab28a18c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c1/502522ad3b2700181a8da474ab28a18c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c3/902bf3e2342700181a8da474ab28a18c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c5/c066301d482700181a8da474ab28a18c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c7/807fe6a1352600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/cc/004d270b342600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/cd/104d68977e2600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/cd/505e1e4d5d2600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ce/2006ed6afd2600181d17a2c6efd84f8d" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d/e07e72267f2600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d0/007fd4c5352600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d0/60ee676e342600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d3/10a086dd8a2600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d3/90b59c7a5b2600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d7/000f165a422700181a8da474ab28a18c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d7/500612f28a2600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/da/10a2f855432700181a8da474ab28a18c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/dc/90354be6472700181a8da474ab28a18c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/de/c0912d85772600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e/303ddbdf342700181a8da474ab28a18c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e0/50c71bd25d2600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e1/8070e3977e2600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e8/90b30b7a342700181a8da474ab28a18c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e9/a0033d30342600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/eb/504bb753482700181a8da474ab28a18c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ec/607e34f36b2600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ed/004513cb352600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ef/101cae63892600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f/d0b7bf523b2700181a8da474ab28a18c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f4/b0a500f03e2700181a8da474ab28a18c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f5/c0aabb265c2600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f7/b04b8b67882600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/fd/0004f4285b2600181a08c1ab36083faa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/exercise1/.markers" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/exercise1/org.eclipse.jdt.core/state.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/exercise11/.markers" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/exercise11/org.eclipse.jdt.core/state.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/exercise2/.markers" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/exercise2/org.eclipse.jdt.core/state.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/exercise3/.markers" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/exercise3/org.eclipse.jdt.core/state.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/exercise4/.markers" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/exercise4/org.eclipse.jdt.core/state.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/exercise6/org.eclipse.jdt.core/state.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/exercise7/org.eclipse.jdt.core/state.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/exercise8/.markers" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/exercise8/org.eclipse.jdt.core/state.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/homework#1/.markers" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/homework#1/org.eclipse.jdt.core/state.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/homework#3/.markers" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/homework#3/org.eclipse.jdt.core/state.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/homework#4/.markers" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/homework#4/org.eclipse.jdt.core/state.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/homework#5/.indexes/af/history.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/homework#5/.indexes/e4/history.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/homework#5/.markers" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/homework#5/org.eclipse.jdt.core/state.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/homework2/.markers" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/homework2/org.eclipse.jdt.core/state.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/43.tree" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.mpc.ui.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.debug.ui.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.recommenders.completion.rcp.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.search.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Driver.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/GenericStack.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/GraphTester.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/HashTableTester.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Main.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Music.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/New_configuration (1).launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/New_configuration (2).launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/New_configuration.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/PostfixExpression.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/QueueDriver (1).launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/QueueDriver.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/StackDriver.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/TestBST.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Tester.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/WheelGame.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/binarySearch.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/exercise62.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/exercise_5.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.ui.workbench.swt/dialog_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/segments_1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/write.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.si" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/segments_1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/write.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.mpc.ui/dialog_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.equinox.p2.ui/dialog_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1247459299.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1271342938.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1434121484.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1543332384.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1556920615.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1880139076.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2654920010.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2936287081.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2999113739.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3048152082.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3068211809.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3129279683.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3265801348.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3318081693.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3404722252.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3447862357.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3669867886.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3740299137.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3746283354.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/4124263567.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/473106283.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/477636451.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/501142777.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/505420999.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/618762592.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/749096360.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/820549140.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/883634178.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/891561327.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/index.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/1/2/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/1/2/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/1/3/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/1/3/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/2/6/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/2/6/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/3/9/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/3/9/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Graphs/2018/3/9/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Graphs/2018/3/9/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise1/2018/1/2/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise1/2018/1/2/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise1/2018/1/5/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise1/2018/1/5/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise1/2018/2/7/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise1/2018/2/7/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise2/2018/1/3/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise2/2018/1/3/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise2/2018/1/4/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise2/2018/1/4/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise2/2018/2/8/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise2/2018/2/8/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise4/2018/1/5/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise4/2018/1/5/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise4/2018/2/5/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise4/2018/2/5/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise4/2018/2/6/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise4/2018/2/6/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise7/2018/2/7/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise7/2018/2/7/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise8/2018/2/8/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise8/2018/2/8/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise8/2018/2/9/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/exercise8/2018/2/9/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/homework#1/2018/1/4/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/homework#1/2018/1/4/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/homework#3/2018/2/7/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/homework#3/2018/2/7/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/homework#4/2018/3/9/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/homework#4/2018/3/9/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/homework#5/2018/3/11/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/homework#5/2018/3/11/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/homework2/2018/2/6/refactorings.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/homework2/2018/2/6/refactorings.index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.8.0.20170516-2043.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.search/dialog_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.metadata/version.ini" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.recommenders/caches/identified-project-coordinates.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.recommenders/caches/manual-mappings.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_o.fdt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_o.fdx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_o.fnm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_o.frq" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_o.nrm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_o.prx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_o.tii" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_o.tis" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments_p" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ChatLog/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ChatProgram" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise1/.classpath" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise1/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise1/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise1/bin/Driver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise1/bin/GenericStack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise1/bin/LList$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise1/bin/LList.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise1/bin/ListInterface.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise1/bin/Music.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise1/src/Driver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise1/src/GenericStack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise1/src/LList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise1/src/ListInterface.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise1/src/Music.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise11/.classpath" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise11/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise11/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise11/bin/Graph.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise11/bin/GraphTester.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise11/bin/Pair.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise11/bin/Vertex.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise11/bin/Visitor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise11/src/Graph.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise11/src/GraphTester.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise11/src/Pair.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise2/.classpath" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise2/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise2/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise2/bin/exercise2/ArrayStack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise2/bin/exercise2/LinkedStack$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise2/bin/exercise2/LinkedStack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise2/bin/exercise2/StackDriver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise2/bin/exercise2/StackInterface.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise2/bin/exercise2/driver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise2/src/exercise2/ArrayStack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise2/src/exercise2/LinkedStack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise2/src/exercise2/StackDriver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise2/src/exercise2/StackInterface.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise2/src/exercise2/driver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise3/.classpath" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise3/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise3/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise3/bin/exercise3/ArrayQueue.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise3/bin/exercise3/LinkedQueue$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise3/bin/exercise3/LinkedQueue.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise3/bin/exercise3/QueueDriver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise3/bin/exercise3/QueueInterface.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise3/src/exercise3/ArrayQueue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise3/src/exercise3/LinkedQueue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise3/src/exercise3/QueueDriver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise3/src/exercise3/QueueInterface.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/.classpath" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/bin/exercise4/ArrayQueue.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/bin/exercise4/Exercise_Five.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/bin/exercise4/LList$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/bin/exercise4/LList.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/bin/exercise4/LList2$Node2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/bin/exercise4/LList2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/bin/exercise4/ListInterface.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/bin/exercise4/QueueDriver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/bin/exercise4/QueueInterface.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/bin/exercise4/exercise_5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/src/exercise4/ArrayQueue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/src/exercise4/Exercise_Five.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/src/exercise4/LList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/src/exercise4/LList2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/src/exercise4/ListInterface.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/src/exercise4/QueueDriver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/src/exercise4/QueueInterface.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise4/src/exercise4/exercise_5.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise6/.classpath" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise6/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise6/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise6/bin/exercise6/exercise62.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise6/src/exercise6/exercise62.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/.classpath" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/bin/exercise7/BST.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/bin/exercise7/BinaryNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/bin/exercise7/BinaryTree.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/bin/exercise7/TestBST$DisplayInteger.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/bin/exercise7/TestBST$DisplayString.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/bin/exercise7/TestBST.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/bin/exercise7/TreeInterface.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/bin/exercise7/Visitor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/src/exercise7/BST.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/src/exercise7/BinaryNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/src/exercise7/BinaryTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/src/exercise7/TestBST.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise7/src/exercise7/TreeInterface.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise8/.classpath" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise8/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise8/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise8/bin/Employee.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../exercise8/bin/HashEntry.class" />
+      <change beforePath="$PROJECT_DIR$/src" afterPath="$PROJECT_DIR$/src" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Card.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <folding>
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Hand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="31" lean-forward="false" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+              <folding>
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+                <element signature="e#693#694#0" expanded="true" />
+                <element signature="e#723#724#0" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#796#797#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#1144#1145#0" expanded="true" />
+                <element signature="e#1174#1175#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BestHand.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BestHand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="125" column="36" lean-forward="false" selection-start-line="125" selection-start-column="31" selection-end-line="125" selection-end-column="36" />
+              <folding>
+                <element signature="e#703#704#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#768#769#0" expanded="true" />
+                <element signature="e#816#817#0" expanded="true" />
+                <element signature="e#6924#6930#0" expanded="true" />
+                <element signature="e#7339#7345#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>h.cardArr</find>
+      <find>id</find>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="roei-burstein &lt;roei.burstein@gmail.com&gt;" />
+        <option value="Roei Burstein" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Player.java" />
+        <option value="$PROJECT_DIR$/src/Hand.java" />
+        <option value="$PROJECT_DIR$/src/Card.java" />
+        <option value="$PROJECT_DIR$/src/BestHand.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="702" />
+    <option name="y" value="23" />
+    <option name="width" value="978" />
+    <option name="height" value="958" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PokerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PokerProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PokerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PokerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PokerProject" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22837d96-aada-4381-959f-bdb125759a43" name="Default" comment="" />
+      <created>1531410233237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531410233237</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit and push to begin git repository">
+      <created>1536518124236</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536518124237</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second commit to make sure all the files were uploaded">
+      <created>1536521684477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1536521684478</updated>
+    </task>
+    <task id="LOCAL-00003" summary="NEW COMMIT">
+      <created>1536522072973</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1536522072974</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Commit to upload all of the files">
+      <created>1536565010586</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1536565010586</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="702" y="23" width="978" height="958" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295711" sideWeight="0.51431495" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17832957" sideWeight="0.90833336" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295711" sideWeight="0.48568508" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.109406956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4853273" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added all the files" />
+    <MESSAGE value="Initial commit and push to begin git repository" />
+    <MESSAGE value="Second commit to make sure all the files were uploaded" />
+    <MESSAGE value="NEW COMMIT" />
+    <MESSAGE value="Initial Commit to upload all of the files" />
+    <MESSAGE value="Added src directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added src directory" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="94" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Hand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BestHand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="146" column="41" lean-forward="false" selection-start-line="146" selection-start-column="41" selection-end-line="146" selection-end-column="41" />
+          <folding>
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#6924#6930#0" expanded="true" />
+            <element signature="e#7339#7345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BestHand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+          <folding>
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#6924#6930#0" expanded="true" />
+            <element signature="e#7339#7345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="48" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BestHand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding>
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#6924#6930#0" expanded="true" />
+            <element signature="e#7339#7345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="true" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BestHand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="129" column="8" lean-forward="false" selection-start-line="129" selection-start-column="8" selection-end-line="129" selection-end-column="8" />
+          <folding>
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#6924#6930#0" expanded="true" />
+            <element signature="e#7339#7345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BestHand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="154" column="17" lean-forward="true" selection-start-line="154" selection-start-column="17" selection-end-line="154" selection-end-column="17" />
+          <folding>
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#6924#6930#0" expanded="true" />
+            <element signature="e#7339#7345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BestHand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="16" lean-forward="false" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+          <folding>
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#6924#6930#0" expanded="true" />
+            <element signature="e#7339#7345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BestHand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#6924#6930#0" expanded="true" />
+            <element signature="e#7339#7345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BestHand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#6924#6930#0" expanded="true" />
+            <element signature="e#7339#7345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HoleCards.java" />
+    <entry file="file://$PROJECT_DIR$/src/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="31" lean-forward="false" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/PokerProject/BestHand.class" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BestHand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="125" column="36" lean-forward="false" selection-start-line="125" selection-start-column="31" selection-end-line="125" selection-end-column="36" />
+          <folding>
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#6924#6930#0" expanded="true" />
+            <element signature="e#7339#7345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PokerProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
