@@ -14,7 +14,8 @@ public class Main {
     public static void main(String[] args){
         // System.out.println(bestHand.checkIfStraight(h));
         System.out.println(bestHand.identifyHand(h));
-        System.out.println("hello");
+
+        System.out.println("hi");
 
         //NEW test commit
     }
