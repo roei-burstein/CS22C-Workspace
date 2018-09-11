@@ -82,6 +82,7 @@ public class BestHand extends Hand {
             }
         }
 
+
         return handId;
     }
 
@@ -108,6 +109,12 @@ public class BestHand extends Hand {
                     return true;
                 }
             }
+            return false;
+        }
+
+        public boolean checkIfStraightFlush(Hand h){
+            Card[] cardArray = h.getCardArr();
+
             return false;
         }
 
@@ -171,7 +178,7 @@ public class BestHand extends Hand {
 
         return false;
     }
-
+/*
     public boolean checkIfStraight(Hand h)
     {
         Card[] cardArray = h.getCardArr();
@@ -211,6 +218,7 @@ public class BestHand extends Hand {
 
         return false;
     }
+    */
 
     public Card findHighestCard(Hand h) {
         Card highestCard = new Card(-1, Suit.SPADES);
