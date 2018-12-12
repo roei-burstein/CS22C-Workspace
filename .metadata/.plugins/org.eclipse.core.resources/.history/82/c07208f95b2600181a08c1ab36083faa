@@ -1,0 +1,9 @@
+
+public class RomanValueHasher implements Hasher<RomanNumeral> {
+
+	@Override
+	public int hash(RomanNumeral elem) {
+		return (Integer) elem.hashCode();
+	}
+
+}

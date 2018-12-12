@@ -1,0 +1,96 @@
+
+public class Tester<E> {
+
+	public static void main(String[] args) {
+		HashTable<RomanNumeral> ht1, ht2, ht3;
+		ht1 = new HashSC<RomanNumeral>(new RomanValueHasher(), new RomanValueComparator());
+		ht2 = new HashQP<RomanNumeral>(new RomanStringHasher1(), new RomanStringComparator());
+		ht3 = new HashQP<RomanNumeral>(new RomanStringHasher2(), new RomanStringComparator());
+		RomanNumeral r = fillHashTables(ht1, ht2, ht3);
+		displayTheTables(ht1, ht2, ht3);
+		displayStats(ht1, ht2, ht3);
+		methodName(ht1, r);
+		methodName(ht2, r);
+		testHashTables(ht1, ht2, r);
+	}
+
+	public static void methodName(HashTable<RomanNumeral> ht, RomanNumeral romNum) {
+		RomanNumeral rn = new RomanNumeral(4001);
+		System.out.println("The return value of calling getEntry for " + rn + "is " + ht.getEntry(rn));
+		System.out.println("The return value of calling remove for " + rn + "is " + ht.remove(rn));
+		System.out.println("The return value of calling insert for " + romNum + "is " + ht.insert(romNum));
+	}
+
+	public static void displayStats(HashTable<RomanNumeral> ht1, HashTable<RomanNumeral> ht2,
+			HashTable<RomanNumeral> ht3) {
+		ht1.displayStatistics();
+		ht2.displayStatistics();
+		ht3.displayStatistics();	
+	}
+
+	public static void displayTheTables(HashTable<RomanNumeral> ht1, HashTable<RomanNumeral> ht2,
+			HashTable<RomanNumeral> ht3) {
+		System.out.println("HashSC with int value key has: \n");
+		ht1.displayTable();
+		System.out.println("\nHashQP #1 with String key has: \n");
+		ht2.displayTable();
+		System.out.println("\nHashQP #2 with String key has: \n");
+		ht3.displayTable();
+	}
+
+	public static RomanNumeral fillHashTables(HashTable<RomanNumeral> ht1, HashTable<RomanNumeral> ht2,
+			HashTable<RomanNumeral> ht3) {
+		int numEntries = (int) (Math.random() * 301 + 100);
+		System.out.println("Number of entries being inserted into the table = " + numEntries);
+		boolean[] boolArray = new boolean[4001];
+		int counter = 0;
+		RomanNumeral romNum = null;
+		while (counter < numEntries) {
+			int rand = (int) (Math.random() * 4000 + 1);
+			if (!boolArray[rand]) {
+				romNum = new RomanNumeral(rand);
+				ht1.insert(romNum);
+				ht2.insert(romNum);
+				ht3.insert(romNum);
+				boolArray[rand] = true;
+				counter++;
+			}
+		}
+		return romNum;
+	}
+
+	// Call the following in main for HashSC and one of HashQPs HashTables (in one
+	// call):
+	public static void testHashTables(HashTable<RomanNumeral> tableSC, HashTable<RomanNumeral> tableQP,
+			RomanNumeral lastRoman) {
+		RomanNumeral targetRoman = new RomanNumeral(lastRoman.getValue()); // make copy
+		RomanNumeral tempRoman;
+
+		String tableName = "HashSC";
+		HashTable<RomanNumeral> currentTable = tableSC;
+
+		for (int count = 0; count < 2; ++count) {
+			System.out.println("Calling getEntry in " + tableName + " for " + targetRoman);
+			tempRoman = currentTable.getEntry(targetRoman);
+
+			if (tempRoman != null) {
+				System.out.println(
+						"Retrieved in " + tableName + ", RomanNumeral: " + tempRoman + ", now trying to delete it");
+				// now delete it
+				System.out.println("Calling remove for " + targetRoman + " from " + tableName + " returns "
+						+ currentTable.remove(targetRoman));
+				System.out.println("Calling remove for " + targetRoman + " from " + tableName + " AGAIN returns "
+						+ currentTable.remove(targetRoman));
+			} else
+				System.out.println("Error in " + tableName + ": can't retrieve " + targetRoman);
+
+			tableName = "HashQP";
+			currentTable = tableQP;
+		} // end for
+		System.out.println("\nNow the statistics for HashSC are");
+		tableSC.displayStatistics();
+		System.out.println("\nNow the statistics for one of the HashQPs are");
+		tableQP.displayStatistics();
+	} // end testHashTables
+
+}

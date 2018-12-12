@@ -1,0 +1,10 @@
+import java.util.Comparator;
+
+public class RomanValueComparator implements Comparator<RomanNumeral>{
+
+	@Override
+	public int compare(RomanNumeral o1, RomanNumeral o2) {
+		return o1.getValue() - o2.getValue();
+	}
+
+}
